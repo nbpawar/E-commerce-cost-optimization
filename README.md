@@ -2,3 +2,4 @@
 
 
 This is the E-commerce- Project Cost optimization..
+By usinng the AWS calculator.
